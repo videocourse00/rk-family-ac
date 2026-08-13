@@ -1,0 +1,1 @@
+RK Family A/C Android wrapper. Android 7.0+. GitHub Actions builds app-debug.apk.
